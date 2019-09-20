@@ -1,4 +1,4 @@
-package com.uyar.issuemanagement.repo;
+package com.uyar.issuemanagement.repository;
 
 import com.uyar.issuemanagement.entity.Issue;
 import org.springframework.data.jpa.repository.JpaRepository;
